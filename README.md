@@ -20,7 +20,7 @@
 ---
 
 1) Raw File name: Demonstrate the configuration of POP3 SMTP real environment
-2) Demonstrate the configuration of POP3 SMTP server in simulation
+2) Raw File name: Demonstrate the configuration of POP3 SMTP server in simulation
 
 ---
 
@@ -42,6 +42,28 @@
 
  Lab Report: 02
 ---
+
+
+1) Raw File name: Demonstrate the configuration of FTP server in simulation and real environment
+
+---
+
+<img src="1.png"
+     alt="lab"/>
+
+<img src="2.png"
+     alt="lab"/>
+---
+
+
+
+<h1 id="test-title">Lab Report (02) in PDF</h1>
+
+<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
+    <embed src="loremipsum.pdf#page=2">
+        <p>Click here for Lab Report: <a href="Report_02.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 
